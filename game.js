@@ -86,6 +86,8 @@
         isVisible: function () {
             return this.x + this.w > 0;
         }
+    };
+    var Trex={
 
     };
     var Background = {
